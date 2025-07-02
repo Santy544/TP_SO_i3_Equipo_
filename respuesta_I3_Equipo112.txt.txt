@@ -1,0 +1,18 @@
+a-¿Cómo queda el máster después de estos cambios?
+
+Queda con todos los cambios de las ramas sin conflictos
+
+b-¿Beta pudo ver todos los cambios que se realizaron?
+
+Si, mediante un git pull
+
+c-¿que debió hacer (todos los comandos) en el punto 5 para poder hacer el merge ?
+
+git pull origin main
+git merge canosa
+(resolver conflictos)
+git add .
+git commit
+git push origin main
+
+
