@@ -15,4 +15,17 @@ git add .
 git commit
 git push origin main
 
+ d-¿Las ramas creadas por BETA y GAMMA quedan con datos actualizados?
+
+Las ramas creadas por BETA y GAMMA quedan actualizadas desde el main
+
+ e-¿Detalle (explique) los problemas que tuvieron al hacer el merge?
+
+La informacion de datos  del main se sobreescribia a los datos de la rama,
+para resolverlo habia que modificar el archivo agregando los datos del main para despues
+poder hacer el push.
+
+ f-¿que debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedido?
+
+con el comando " ipconfig >> beta.txt " , " date " , echo  " Nombre: Giuliano Di Toro " >> beta.txt
 
