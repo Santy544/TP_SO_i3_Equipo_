@@ -32,3 +32,53 @@ Adaptador de Ethernet vEthernet (Default Switch):
    M scara de subred . . . . . . . . . . . . : 255.255.240.0
    Puerta de enlace predeterminada . . . . . : 
 
+
+Nombre: Giuliano Di Toro
+
+Hora: 17:16:56     
+
+Configuraci¢n IP de Windows
+
+
+Adaptador de Ethernet Radmin VPN:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   Direcci¢n IPv6 . . . . . . . . . . : fdfd::1ab1:3b31
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::b42e:6b4f:56b5:84b4%18
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 26.177.59.49
+   M scara de subred . . . . . . . . . . . . : 255.0.0.0
+   Puerta de enlace predeterminada . . . . . : 26.0.0.1
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : fibertel.com.ar
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::9bb9:e01d:1a13:2805%14
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.0.11
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 192.168.0.1
+
+Adaptador de Ethernet Ethernet 2:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::851c:505f:4d78:41b3%10
+   Direcci¢n IPv4 de configuraci¢n autom tica: 169.254.136.81
+   M scara de subred . . . . . . . . . . . . : 255.255.0.0
+   Puerta de enlace predeterminada . . . . . : 
+
+Adaptador desconocido Conexi¢n de  rea local:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+
+Adaptador de Ethernet Conexi¢n de red Bluetooth 3:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+
+Adaptador de t£nel Teredo Tunneling Pseudo-Interface:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   Direcci¢n IPv6 . . . . . . . . . . : 2001:0:2877:7aa:1097:28:3f57:fff4
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::1097:28:3f57:fff4%12
+   Puerta de enlace predeterminada . . . . . : 
+
