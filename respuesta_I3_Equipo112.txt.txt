@@ -29,3 +29,7 @@ poder hacer el push.
 
 con el comando " ipconfig >> beta.txt " , " date " , echo  " Nombre: Giuliano Di Toro " >> beta.txt
 
+
+G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
+
+repito los comandos del punto 7 después de actualizar mi repositorio local con la rama de Beta " ipconfig >> beta.txt " , " date " , echo  " Nombre: Fernando Cantero " >> beta.txt
