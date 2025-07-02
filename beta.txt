@@ -82,3 +82,48 @@ Adaptador de t£nel Teredo Tunneling Pseudo-Interface:
    V¡nculo: direcci¢n IPv6 local. . . : fe80::1097:28:3f57:fff4%12
    Puerta de enlace predeterminada . . . . . : 
 
+
+Nombre: Fernando Cantero
+
+Hora: 17:23:03
+
+Configuraci¢n IP de Windows
+
+
+Adaptador de Ethernet Ethernet:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+
+Adaptador de Ethernet Ethernet 2:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::3b6e:2b9b:ae2:35c8%10
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 
+
+Adaptador de LAN inal mbrica Conexi¢n de  rea local* 9:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+
+Adaptador de LAN inal mbrica Conexi¢n de  rea local* 10:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+
+Adaptador de LAN inal mbrica Wi-Fi:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : home
+   Direcci¢n IPv6 . . . . . . . . . . : 2800:810:4ff:b92f:6180:4e2e:9d19:334
+   Direcci¢n IPv6 . . . . . . . . . . : 2800:810:4ff:b92f:7444:24f5:212a:fb3d
+   Direcci¢n IPv6 temporal. . . . . . : 2800:810:4ff:b92f:29d7:542b:ec44:294e
+   Direcci¢n IPv6 temporal. . . . . . : 2800:810:4ff:b92f:60a8:717c:434d:3ac3
+   Direcci¢n IPv6 temporal. . . . . . : 2800:810:4ff:b92f:78dd:f794:2a12:26d
+   Direcci¢n IPv6 temporal. . . . . . : 2800:810:4ff:b92f:a588:45c0:ab3a:901b
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::f895:9596:5c03:2391%8
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.0.56
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::c6eb:39ff:fe43:b0dc%8
+                                       192.168.0.1
